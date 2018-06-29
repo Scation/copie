@@ -1,0 +1,89 @@
+[07.05.2018 13:28:34] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 13:28:34] 1. Serializing general data
+[07.05.2018 13:32:02] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 13:32:02] 1. Serializing general data
+[07.05.2018 13:33:11] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 13:33:11] 1. Serializing general data
+[07.05.2018 13:45:09] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 13:45:09] 1. Serializing general data
+[07.05.2018 13:50:28] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 13:50:28] 1. Serializing general data
+[07.05.2018 13:51:13] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 13:51:13] 1. Serializing general data
+[07.05.2018 13:51:13] 2. Serializing role data
+[07.05.2018 13:51:13] 3. Serializing category data
+[07.05.2018 13:51:13] 4. Serializing text channel data
+[07.05.2018 15:43:16] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 15:43:16] 1. Serializing general data
+[07.05.2018 15:58:49] Successfully logged in as ￼  ￼#9792. Starting script.
+[07.05.2018 15:58:49] 1. Serializing general data
+[08.05.2018 13:16:52] Successfully logged in as X-BOT#3451. Starting script.
+[08.05.2018 13:16:52] 1. Sérialisation des données générales
+[08.05.2018 13:16:52] 2. Serializing role data
+[08.05.2018 13:16:52] 2.1 Sérialisation 7 role(s)
+[08.05.2018 13:16:52] 3. Serializing category data
+[08.05.2018 13:16:52] 3.1 Sérialisation 2 category(ies)
+[08.05.2018 13:16:52] 4. Serializing text channel data
+[08.05.2018 13:16:52] 4.1 Sérialisation 2 text channel(s)
+[08.05.2018 13:16:52] 5. Serializing voice channel data
+[08.05.2018 13:16:52] 5.1 Sérialisation 8 voice channel(s)
+[08.05.2018 13:16:52] 6. Serializing emojis
+[08.05.2018 13:16:52] 6.1 Sérialisation 1 emoji(s)
+[08.05.2018 13:16:52] 7. Serializing bans
+[08.05.2018 13:16:52] 7.1 Sérialisation 0 ban(s)
+[08.05.2018 13:16:52] 8. Saving guild data to file
+[08.05.2018 13:16:52] 9. Sérialisation terminée et données sauvegardées
+[08.05.2018 13:16:52] 10. Deleting channels
+[08.05.2018 13:16:52] 11. Deleting roles
+[08.05.2018 13:16:52] 12. Deleting emojis
+[08.05.2018 13:16:52] Rate limit reached!
+Timeout: 3355
+Limit: 1
+TimeDiff: 715
+Method: delete
+Path: /guilds/443368218439057409/emojis/443396111726673940
+Route: /guilds/443368218439057409/emojis/:id
+[08.05.2018 13:16:52] 13. New guild cleanup finished
+[08.05.2018 13:16:52] 14. Setting general data
+[08.05.2018 13:16:53] 15. Creating roles
+[08.05.2018 13:16:53] 15.1 Created role "BOSS"
+[08.05.2018 13:16:53] 15.2 Created role "GARS-SUR"
+[08.05.2018 13:16:53] 15.3 Created role "X-BOT"
+[08.05.2018 13:16:53] 15.4 Created role "BOT"
+[08.05.2018 13:16:53] 15.5 Created role "TEST"
+[08.05.2018 13:16:53] 15.6 Created role "҅"
+[08.05.2018 13:16:53] 16. Creating categories
+[08.05.2018 13:16:53] 16.1 Created catergory "╔═══════ [       VOCAL      ] ═══════╗"
+[08.05.2018 13:16:53] 16.2 Created catergory "╔═══════ [        TEXT       ] ═══════╗"
+[08.05.2018 13:16:53] 17. Creating text channels
+[08.05.2018 13:16:53] 17.1 Created text channel "dev-bot"
+[08.05.2018 13:16:53] 17.2 Created text channel "général"
+[08.05.2018 13:16:53] 18. Creating voice channels
+[08.05.2018 13:16:53] 18.1 Created voice channel "╔════ஜ۩۞۩ஜ════╗"
+[08.05.2018 13:16:54] 18.2 Created voice channel "► ══   BIENVENUE  ══ ◄"
+[08.05.2018 13:16:54] 18.3 Created voice channel "► ════     SUR     ════  ◄"
+[08.05.2018 13:16:54] 18.4 Created voice channel "► ═     HYPE-SQUAD      ═ ◄"
+[08.05.2018 13:16:54] 18.5 Created voice channel "► ═ DEVELOPMENT  ═ ◄"
+[08.05.2018 13:16:54] 18.6 Created voice channel "► ════   BOTS  ════  ◄"
+[08.05.2018 13:16:54] 18.7 Created voice channel "╚════ஜ۩۞۩ஜ════╝"
+[08.05.2018 13:16:54] 18.8 Created voice channel "► ══  ✦ Général ✦ ══ ◄"
+[08.05.2018 13:16:54] 19. Creating emojis
+[08.05.2018 13:16:54] 19.1 Created emoji: 5ad14177aff94072014526
+[08.05.2018 13:16:54] 20. Done!
+[15.05.2018 14:40:44] Successfully logged in as 🔱 𝕃𝕒𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕋 🔱#6666. Starting script.
+[15.05.2018 14:40:44] 1. Sérialisation des données générales
+[15.05.2018 14:40:44] 2. Serializing role data
+[15.05.2018 14:40:44] 2.1 Sérialisation 1 role(s)
+[15.05.2018 14:40:44] 3. Serializing category data
+[15.05.2018 14:40:44] 3.1 Sérialisation 0 category(ies)
+[15.05.2018 14:40:44] 4. Serializing text channel data
+[15.05.2018 14:40:44] 4.1 Sérialisation 1 text channel(s)
+[15.05.2018 14:40:44] 5. Serializing voice channel data
+[15.05.2018 14:40:44] 5.1 Sérialisation 0 voice channel(s)
+[15.05.2018 14:40:44] 6. Serializing emojis
+[15.05.2018 14:40:44] 6.1 Sérialisation 0 emoji(s)
+[15.05.2018 14:40:44] 7. Serializing bans
+[15.05.2018 14:40:44] 7.1 Sérialisation 0 ban(s)
+[15.05.2018 14:40:44] 8. Saving guild data to file
+[15.05.2018 14:40:44] 9. Sérialisation terminée et données sauvegardées
+[15.05.2018 14:40:44] 10. Program execution stopped because the provided token is a user account. Please use a bot account with the serialized data.
